@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دینار</string>
+    <string name="shortcut_add_expense_short">هزینه جدید</string>
+    <string name="shortcut_add_expense_long">ثبت هزینه‌ی جدید</string>
+    <string name="shortcut_add_income_short">درآمد جدید</string>
+    <string name="shortcut_add_income_long">ثبت درآمد جدید</string>
+</resources>
